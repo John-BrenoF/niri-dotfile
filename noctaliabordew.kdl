@@ -1,0 +1,12 @@
+layout {
+
+    focus-ring {
+        width 1
+    }
+
+    border {
+        width 1
+    }
+}
+
+//define espeura da janela , eu não fiz no "noctalia.kdl" pois quando  ativado cor de destarquer pelo papel  de parede ele é  redefinido pois ele é substituído , então fiz esse arquivo para escapa dele 
