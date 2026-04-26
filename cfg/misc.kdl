@@ -1,5 +1,5 @@
     prefer-no-csd
-    screenshot-path null
+    // screenshot-path "~/Pictures/Screenshots"
 
     environment {
         ELECTRON_OZONE_PLATFORM_HINT "auto"
@@ -8,6 +8,7 @@
         QT_WAYLAND_DISABLE_WINDOWDECORATION "1"
         XDG_CURRENT_DESKTOP "niri"
         XDG_SESSION_TYPE "wayland"
+        GTK_THEME "Adwaita:dark"
     }
 
     cursor {
