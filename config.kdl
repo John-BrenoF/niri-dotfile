@@ -9,4 +9,4 @@ include "./cfg/misc.kdl"
 
 include "./noctalia.kdl"
 include "./noctaliabordew.kdl"
-
+include "./cfg/teclado.kdl" 
